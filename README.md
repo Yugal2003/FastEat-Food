@@ -1,4 +1,4 @@
-[LIVE]()
+[LIVE](https://fast-eat-food.vercel.app/)
 # FastEat
 
 FastEat is a food ordering web application that allows users to search for recipes, select their favorite meals, and manage their orders in a cart. The app provides user authentication and ensures a personalized experience for each user.
