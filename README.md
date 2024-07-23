@@ -7,6 +7,25 @@ FastEat is a food ordering web application that allows users to search for recip
 
 FastEat is designed to make online food ordering simple and efficient. Users can search for recipes, add meals to their cart, and view their orders. The app supports user authentication to ensure each user's data is secure and personalized.
 
+
+# Images
+
+<ul>
+  <li><h2>Home Page</h2></li>
+  <img src="" /><br>
+</ul>
+
+<ul>
+  <li><h2>Dice Page</h2></li>
+  <img src="" /><br>
+</ul>
+
+<ul>
+  <li><h2>Responsive Page</h2></li>
+  <img src="" /><br>
+</ul>
+
+
 ## Key Features
 
 - **User Authentication:** Secure login and signup using Firebase.
