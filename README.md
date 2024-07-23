@@ -12,17 +12,42 @@ FastEat is designed to make online food ordering simple and efficient. Users can
 
 <ul>
   <li><h2>Home Page</h2></li>
-  <img src="" /><br>
+  <img src="https://github.com/user-attachments/assets/8f76e7b4-41ed-4aa1-95e0-ace1e9fe4ce3" /><br>
 </ul>
 
 <ul>
-  <li><h2>Dice Page</h2></li>
-  <img src="" /><br>
+  <li><h2>Meal Page</h2></li>
+  <img src="https://github.com/user-attachments/assets/e382139d-4dda-4115-93cf-46cd6a9a8ae9" /><br>
+</ul>
+
+<ul>
+  <li><h2>Meal Details Page</h2></li>
+  <img src="https://github.com/user-attachments/assets/c6652b6b-1542-4e69-9756-61e5e60ab191" /><br>
+</ul>
+
+<ul>
+  <li><h2>Meal Info Page</h2></li>
+  <img src="https://github.com/user-attachments/assets/0b4c5574-09e3-4e59-bf99-bd43d3a565ae" /><br>
+</ul>
+
+<ul>
+  <li><h2>SignUp Page</h2></li>
+  <img src="https://github.com/user-attachments/assets/cd677790-f5b2-49cb-9790-3ed57c429d48" /><br>
+</ul>
+
+<ul>
+  <li><h2>Login Page</h2></li>
+  <img src="https://github.com/user-attachments/assets/47c56c19-9839-403c-907b-fdd200ea765f" /><br>
+</ul>
+
+<ul>
+  <li><h2>Cart Page</h2></li>
+  <img src="https://github.com/user-attachments/assets/d437905e-3655-4d8d-9110-6842b5123573" /><br>
 </ul>
 
 <ul>
   <li><h2>Responsive Page</h2></li>
-  <img src="" /><br>
+  <img src="https://github.com/user-attachments/assets/7908cba7-b7af-42fc-af97-01d2028769d1" /><br>
 </ul>
 
 
