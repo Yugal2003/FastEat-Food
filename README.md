@@ -46,6 +46,11 @@ FastEat is designed to make online food ordering simple and efficient. Users can
 </ul>
 
 <ul>
+  <li><h2>FireBase Page</h2></li>
+  <img src="https://github.com/user-attachments/assets/90496cec-6be2-4d59-90be-e007aba37d17" /><br>
+</ul>
+
+<ul>
   <li><h2>Responsive Page</h2></li>
   <img src="https://github.com/user-attachments/assets/7908cba7-b7af-42fc-af97-01d2028769d1" /><br>
 </ul>
